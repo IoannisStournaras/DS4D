@@ -1,0 +1,15 @@
+#Pitch is a python library that is used to create the football pitch 
+#This library is submitted as a file named pitch.py
+#When you extract the zip, assignment.ipynb and pitch.py should remain in the same folder and no further action from you is required
+#If pitch.py and assignment.ipynb are not in the same folder then you should define the path. I used Anaconda/Jupiter Notebook and
+	#this can be done by following the steps:
+	1)Windows Search
+	2)Search for 'Edit Environment Variables for your account'
+	3)Create New
+	4)Variable name = PYTHONPATH
+	5)Variable Path = The pathof the folder you have stored
+	6)Restart Jupiter Server
+	
+#If any other libray is not installed you can install each library by using the command
+!pip install (nameofthelibrary)
+For example: !pip install sklearn
